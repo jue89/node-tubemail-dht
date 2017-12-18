@@ -1,0 +1,22 @@
+{
+  "name": "tubemail-dht",
+  "version": "1.0.0",
+  "description": "Tube Mail peer discovery using Bittorrent DHT",
+  "main": "dht.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jue89/node-tubemail-dht.git"
+  },
+  "keywords": [
+    "dht"
+  ],
+  "author": "Juergen Fitschen <me@jue.yt>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jue89/node-tubemail-dht/issues"
+  },
+  "homepage": "https://github.com/jue89/node-tubemail-dht#readme",
+  "dependencies": {
+    "bittorrent-dht": "^7.8.1"
+  }
+}
